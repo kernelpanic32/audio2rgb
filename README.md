@@ -18,3 +18,5 @@ You would need to make a transistor driver if you are using a 12v led strip (ard
 Then simply launch the program with your arduino connected via usb, click on connect, select your audio interface, click on enable and enojy!
 
 Also when the arduino is not recieving any data it loops rgb colors.
+
+If you can't compile this version you could try the legacy one (https://github.com/kernelpanic32/audio2rgb_legacy)
