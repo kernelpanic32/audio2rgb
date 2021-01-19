@@ -1,8 +1,6 @@
 # audio2rgb
 This program takes the sound from your PC using the basswasapi.dll lib creates an audio spectrum and converts it into rgb and is sent to the arduino through serial, makeing them audiorythmic.
 
-This program takes the sound from your PC using the basswasapi.dll lib creates an audio spectrum and converts it into rgb and is sent to the arduino through serial, makeing them audiorythmic.
-
 INSTALLATION
 
 - Compile the solution with Visual Studio or download the exe from the releases
